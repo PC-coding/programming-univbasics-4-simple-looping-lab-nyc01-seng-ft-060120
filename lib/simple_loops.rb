@@ -1,5 +1,9 @@
 # Write your methods here
 
-def loop_message_five_times
-  puts "message"(5)
+counter = 0
+pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
+ 
+while pets[counter] do
+  puts pets[counter]
+  counter += 1
 end
