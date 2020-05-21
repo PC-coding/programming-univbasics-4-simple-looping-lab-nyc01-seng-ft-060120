@@ -1,9 +1,8 @@
 # Write your methods here
 
-counter = 0
-pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
- 
-while pets[counter] do
-  puts pets[counter]
-  counter += 1
+def loop_message_five_times(string)
+  count = 0
+  while count < (5)
+    count += 1
+  end
 end
