@@ -10,7 +10,7 @@ end
 
 def loop_message_n_times(message, n)
   count = 0
-  while count < (something)
+  while count < 5 do
     # do something with the parameter
     count += 1
   end
